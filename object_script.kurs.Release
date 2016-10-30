@@ -1,0 +1,14 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/group.o
+./release/vertexgraph.o
+./release/graphview.o
+./release/myelips.o
+./release/pointtopoint.o
+./release/moc_mainwindow.o
+./release/moc_group.o
+./release/moc_vertexgraph.o
+./release/moc_graphview.o
+./release/moc_myelips.o
+);
