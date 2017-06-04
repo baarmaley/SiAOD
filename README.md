@@ -12,4 +12,4 @@ Scheduling using graph
 </ul>
 <p><a href="https://yadi.sk/d/5Y5lGAiGxqkNC">Почитать тезисы и посмотреть презентацию (:</a></p>
 <p>Скриншот программы:</p>
-![graf](https://cloud.githubusercontent.com/assets/19309892/19838587/b0595342-9ee3-11e6-8d7c-3b5bb01e9ad1.jpg)
+<img alt="screenshot" src="https://cloud.githubusercontent.com/assets/19309892/19838587/b0595342-9ee3-11e6-8d7c-3b5bb01e9ad1.jpg">
